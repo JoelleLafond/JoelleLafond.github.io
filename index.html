@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <title>Joelle Lafond's Website</title>
+  <meta name="description" content="">  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+  <link rel="stylesheet" href="styles.css">
+
+  <script src="https://kit.fontawesome.com/60573c54e6.js" crossorigin="anonymous">
+  </script>
+  
+  <style>
+    .mySlides {display:none;}
+      div.a {
+        text-align: center;
+      }
+      
+      div.b {
+        text-align: left;
+      }
+      
+      div.c {
+        text-align: right;
+      } 
+      
+      div.d {
+        text-align: justify;
+      } 
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      h1 {font-size: 2.5vw;}
+      h2 {font-size: 2vw;}
+      h3 {font-size: 1.5vw;}
+      h4 {font-size: 1vw;}
+      h5 {font-size: 3.5vw;}
+      h6 {font-size: 2.5vw;} 
+      p {font-size: 1vw;}
+
+
+      html {
+    scroll-behavior: smooth;
+  }
+
+  .centerW {
+    margin: auto;
+    width: 75%;
+  }
+
+      .center8 {
+    margin: auto;
+    width: 85%;
+  }
+
+      a {
+        text-decoration: none;
+        color: rgb(57, 110, 255);
+      }
+
+      body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+
+  #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: rgb(0, 183, 255);
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+  }
+
+  #myBtn:hover {
+    background-color: rgb(42, 15, 197);
+  }
+
+    </style>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    </head>
+<body>
+
+<!-- Navbar -->
+<div class="w3-bar w3-white w3-wide w3-padding-16 w3-card w3-center">
+    
+  <!-- Float links to the right. Hide them on small screens -->
+      <h2>Joelle Lafond's Website</h2>
+    </div>
+</div>
+
+
+<!-- Page content -->
+
+<p><button onclick="topFunction()" id="myBtn" class="fas fa-arrow-up w3-text-white">
+</button></p>
+
+<div class="w3-content" style="max-width:2000px;margin-top:46px">
+
+  <!------------------------------------------------------------------------------------------- Automatic Slideshow Images --------------------------------------------------------------------------------------------->
+
+  <div class="w3-container">
+    <div class="w3-content w3-display-container w3-section w3-center" style="max-width:2000px">
+      <img src="CE2E.jpg" style="width:70%">
+    </div>
+  </div>
+
+
+
+  <!----------------------------------------------------------------------------------------- Goals and personnality of our lab ---------------------------------------------------------------------------------------->
+  <div class="w3-center" style="max-width: width 800px;">
+    <h2><b>Welcome! </b></h2>
+    <h3>This website is still under process, so come back in a few days!</h3>
+  </div>
+
+
+<!-- Pied de section blancs -->
+  <div class="w3-panel w3-white"> </div>
+  <div class="w3-panel w3-white"> </div>
+  <div class="w3-panel w3-white"> </div>
+  <div class="w3-panel w3-white"> </div>
+
+<!-- End Page Content -->
+</div>
+
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-16 w3-dark-grey w3-large">
+
+
+  <div class="a w3-hide-small w3-left">
+    <p>© Joëlle Lafond</p> 
+  </div>
+
+  <div class="a w3-hide-large w3-hide-medium w3-center">
+    <h6>© Joëlle Lafond</h6>
+  </div>
+</footer>
+
+
+
+
+<script>
+function myFunction() {
+  var x = document.getElementById("navSmall");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 5000); // Change image every 5 seconds
+}
+
+function w3_open() {
+    document.getElementsByClassName("w3-sidenav")[0].style.display = "block";
+    document.getElementsByClassName("w3-overlay")[0].style.display = "block";
+}
+function w3_close() {
+    document.getElementsByClassName("w3-sidenav")[0].style.display = "none";
+    document.getElementsByClassName("w3-overlay")[0].style.display = "none";
+}
+
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+
+</script>
+
+
+</body>
+</html>
