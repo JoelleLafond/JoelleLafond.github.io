@@ -1,2 +1,1 @@
-# JoelleLafond.github.io - Work in Progess 
-Theme: Architect
+JoelleLafond.github.io - Work in Progess 
