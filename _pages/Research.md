@@ -30,7 +30,7 @@ My first research project focused on how triploid hybrids of the fish <i>Chrosom
 </p>
 
 <img style="Padding: 10px 10px 10px 10px;" width="600px" src="../assets/images/Paper1.png" class="center" />
-<figcaption style="text-align: center">Figure A. <i>Chrosomus eos x eos-neogaeus</i> reproductive pathways, and main results of my first chapter.</figcaption>
+<p style="text-align: center">Figure A. <i>Chrosomus eos x eos-neogaeus</i> reproductive pathways, and main results of my first chapter.</p>
 
 <p align="justify">
 By studying these processes, we can gain a better understanding of the limits and evolutionary advantages of alternative reproduction strategies. 
@@ -38,7 +38,7 @@ By studying these processes, we can gain a better understanding of the limits an
 
 ## Maternal effects and gametogenesis
 <p align="justify">
-Incoming!
+Paper just published! 
 </p>
 
 ## Morphometry

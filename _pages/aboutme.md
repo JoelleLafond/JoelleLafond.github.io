@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <img width="600px" src="../assets/images/About5.jpg" class="center" />
-<figcaption style="text-align: center">Some field work</figcaption>
+<p style="text-align: center">Some field work</p>
 
 
 
@@ -32,4 +32,4 @@ I am found of nature, and will always be surprise by how diverse it can be. My h
 <img style="Padding: 10px 10px 10px 10px;" width="525px" src="../assets/images/About2.jpg"/>
 <img style="Padding: 10px 10px 10px 10px;float:left;" width="525px" src="../assets/images/About3.jpg"/>
 <img style="Padding: 10px 10px 10px 10px;" width="525px" src="../assets/images/About6.jpg"/>
-<figcaption style="text-align: center">And some places where we went for fish samplings during my PhD</figcaption>
+<p style="text-align: center">And some places where we went for fish samplings during my PhD</p>

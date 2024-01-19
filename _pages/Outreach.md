@@ -17,7 +17,7 @@ and both edition were was such nice events.
 
 
 <img style="Padding: 10px 10px 10px 10px;" width="750px" src="../assets/images/Night_Research.jpg" class="center"/>
-<figcaption style="text-align: center">Researchers' Night 2022, at the Montreal Botanical Garden.</figcaption>
+<p style="text-align: center">Researchers' Night 2022, at the Montreal Botanical Garden.</p>
 
 
 ## Teaching
