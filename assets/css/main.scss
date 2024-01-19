@@ -24,8 +24,9 @@ search: false
     }
 
 .center_contact {
-    margin: auto;
-    width: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     }
 
 .author__urls.social-icons i,.author__urls.social-icons .svg-inline--fa,.page__footer-follow .social-icons i,.page__footer-follow .social-icons .svg-inline--fa {
