@@ -6,13 +6,13 @@ title: "Research"
 classes: wide
 ---
 
-# Postdoctoral Research
+<h1> Postdoctoral Research </h1>
 
 <p align="justify"> As of January 2024, I will be working in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith Mank</a> (University of British Columbia) as a postdoc. Stay tuned for more research in the broad field of animal reproduction ! 
 </p>
 
 
-# PhD Research
+<h2> PhD Research </h2>
 
 <p align="justify"> Jumping to the PhD right after completing my BSc, I landed in a lab that opened the world of atypical reproductions to me. I was instantly fascinated by the unexpected and unconventional ways that life have to transmit itself to the next generation.
 </p>
