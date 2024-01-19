@@ -17,7 +17,7 @@ classes: wide
 <div class="center_contact">
   <a href="../assets/files/JLafond_CV.pdf">
     <img style="Padding: 10px 10px 10px 10px;" width="100px" src="../assets/images/CV.png" class="center"/> </a>
-  <figcaption style="text-align: center">Curriculum vitae</figcaption>
+  <p style="text-align: center">Curriculum vitae</p>
 
 
 </div>
