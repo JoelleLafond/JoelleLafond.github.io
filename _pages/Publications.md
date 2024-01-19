@@ -18,7 +18,7 @@ classes: wide
 
 
 [<img style="float: left; margin-right: 10px;" alt="alt_text" width="30px" src="../assets/images/Favicon_Link.png" />](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.17264) 
-<p> 5. Lafond J. and Angers, B. (2024) Maternal ploidy shapes reproductive pathways in the triploid hybrid Chrosomus eos × eos-neogaeus. Molecular Ecology. </p>
+<p> 5. Lafond J. and Angers, B. (2024) Maternal ploidy shapes reproductive pathways in the triploid hybrid <i>Chrosomus eos × eos-neogaeus</i>. Molecular Ecology. </p>
 
 [<img style="float: left; margin-right: 10px;" alt="alt_text" width="30px" src="../assets/images/Favicon_Link.png" />](https://www.biorxiv.org/content/10.1101/2023.11.14.566324v1#:~:text=Predation%20increased%205%2Dfold%20from,to%20increase%20ant%20predation%20specifically.) 
 <p> 4. Hargreaves et al. (2023) Latitudinal gradients in predation persist in urban environments. BioRxiv. </p>
