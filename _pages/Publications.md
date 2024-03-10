@@ -12,7 +12,7 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
 ---
 
 
-<h2> Check out my publications by following their link!</h2>
+<h1> Check out my publications by following their link!</h1>
 
 <div style="text-align: justify"><span style="color:#3778C6;" align="justify"> Most of my papers are open access, however not all are. If you can't find access to the paper you want, please send me a message and I'll be happy to send you a private copy. </span> </div>
 

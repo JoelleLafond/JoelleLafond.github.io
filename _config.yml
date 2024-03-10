@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt",
 # Site Settings
 locale                   : "en-US"
 title                    : "Joelle Lafond"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joelle Lafond"
 description              : "Joelle Lafond's website."
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Joelle Lafond"
   avatar           : "/assets/images/profile2.jpg"
-  bio              : "I specialise in the broad field of reproduction, mostly in animals. My past work was on hybrids and their atypical reproductives pathways, and I am now working on sex chromosomes evolution!"
+  bio              : "I specialize in the broad field of animal reproduction. My past work was on hybrids and their atypical reproductives pathways, and I am now working on sex chromosomes evolution!"
 
   links:
     - label: "Email"

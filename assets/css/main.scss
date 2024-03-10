@@ -15,6 +15,16 @@ search: false
     }
 
 
+.img-div {
+    position: relative;
+    margin-bottom: 1em;
+    background: #263238; 
+    color: #eff;
+    font-family: Monaco,Consolas,"Lucida Console",monospace;
+    font-size: .75em;
+    line-height: 1.8;
+    border-radius: 4px
+}
 
 .close_text {
     margin:0%;
@@ -377,7 +387,7 @@ img.mfp-img {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    padding: 40px 0 40px;
+    padding: 10px 0 10px;
     margin: 0 auto
 }
 
@@ -632,6 +642,7 @@ sub {
 img {
     max-width: 100%;
     width: auto\9;
+    display: block;
     height: auto;
     vertical-align: middle;
     border: 0;
@@ -864,9 +875,11 @@ figure.third figcaption {
 figcaption {
     margin-bottom: 0.5em;
     color: #5c5c5c;
-    font-family: 'Simplifica';
-    font-size: 1.5em;
-    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:200;
+    font-style: italic;
+    text-align: center;
+    font-size: large;
 }
 
 figcaption a {
@@ -2500,7 +2513,7 @@ blockquote.notice--danger {
 }
 
 .page__footer-copyright {
-    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
     text-align: left;
     font-weight:normal;
     font-size: 0.60em;
@@ -2528,8 +2541,7 @@ blockquote.notice--danger {
 }
 
 .page__footer-follow a {
-    padding-right: 10px;
-    font-weight: bold
+    padding-right: 0px
 }
 
 .page__footer-follow .social-icons a {

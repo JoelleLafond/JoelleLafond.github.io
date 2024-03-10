@@ -11,7 +11,7 @@ header:
 excerpt: '<p class="excerpt-post"> Email, social medias and research networking</p>' 
 ---
 
-## How to contact me
+<h1>How to contact me</h1>
 
 You can reach out to me or follow my work with these social media and websites. However, the quickest and most certain way to contact me remains my email: joelle.lafond [at] umontreal.ca
 

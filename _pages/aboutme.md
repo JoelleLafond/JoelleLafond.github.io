@@ -12,14 +12,16 @@ excerpt: '<p class="excerpt-post"> Background, hobbies and values</p>'
 ---
 
 
-
+<h1> A little background </h1>
 
 <p align="justify">
 I have always been captivated by the unexpected and intriguing phenomena that arise in the study of biology. It was then only natural for me to gravitate towards atypical reproductive processes, which led me to pursue a PhD project focused on understanding the reproduction of the diploid and triploid hybrid fish <i>Chrosomus eos-neogaeus</i> in the lab of Dr. Bernard Angers (Université de Montréal). My thesis defense is set to May 2024. 
 </p>
 
+<img-div>
 <img width="600px" src="../assets/images/About5.jpg" class="center" />
-<p style="text-align: center">Some field work during my PhD</p>
+<figcaption>Some field work during my PhD</figcaption>
+</img-div>
 
 
 <p align="justify">
@@ -35,9 +37,10 @@ I hope to use my experiences and expertise to contribute to a more diverse, equi
 I am found of nature, and will always be surprise by how diverse it can be. My hobbies includes wildlife photography, arts (mostly with natural subjects) and taking care of my three lovely cats! 
 </p>
 
+<img-div>
 <img style="Padding: 10px 10px 10px 10px; float:left;" width="525px" src="../assets/images/About1.jpg"/>
 <img style="Padding: 10px 10px 10px 10px;" width="525px" src="../assets/images/About2.jpg"/>
 <img style="Padding: 10px 10px 10px 10px;float:left;" width="525px" src="../assets/images/About3.jpg"/>
 <img style="Padding: 10px 10px 10px 10px;" width="525px" src="../assets/images/About6.jpg"/>
-<p style="text-align: center">And some places where we went for fish samplings during my PhD</p>
-
+<figcaption>And some places where we went for fish samplings during my PhD</figcaption>
+</img-div>
