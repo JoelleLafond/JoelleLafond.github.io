@@ -4,11 +4,11 @@ main:
     url: /About/
   - title: "Research"
     url: /research/
+  - title: "Experience"
+    url: /Experience/
   - title: "Teaching and Outreach"
     url: /outreach/
   - title: "Publications"
     url: /publications/
-  - title: "Experience"
-    url: /Experience/
   - title: "Contact"
     url: /contact/

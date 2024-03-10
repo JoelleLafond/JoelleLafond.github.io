@@ -10,7 +10,7 @@ excerpt: Department of Zoology,<br>University of British Columbia,<br> Vancouver
 ---
 
 <div>
-<h5 style="text-align: center; padding-bottom: 2em;"><i>I've always been fascinated by the weird, surprising things that can be found when studying biology. Working on atypical reproductions was then only natural for me!</i></h5>
+<h5 style="text-align: center; padding-bottom: 2em;"><i>I've always been fascinated by the weird, surprising phenomena that can be discovered when studying biology. Working on atypical reproductions was then only natural for me!</i></h5>
 </div>
 
 
@@ -24,7 +24,35 @@ of <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith Mank</a>. I am now 
 <figcaption style="text-align: center">Guppies' beautiful and diverse colorations </figcaption>
 </img-div>
 
-<img-div>
-<img class="center" style="Padding: 10px 10px 10px 10px;" width="1100px" src="../assets/images/UBC.jpg"/>
-<figcaption style="text-align: center">UBC's awesome landscape (Vancouver, Canada)</figcaption>
-</img-div>
+<!-- Back to top button -->
+<button type="button" class="btn btn-danger btn-floating btn-lg" id="btn-back-to-top">
+  <i class="fas fa-arrow-up"></i>
+</button>
+
+<script>
+//Get the button
+let mybutton = document.getElementById("btn-back-to-top");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function () {
+  scrollFunction();
+};
+
+function scrollFunction() {
+  if (
+    document.body.scrollTop > 20 ||
+    document.documentElement.scrollTop > 20
+  ) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+// When the user clicks on the button, scroll to the top of the document
+mybutton.addEventListener("click", backToTop);
+
+function backToTop() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
