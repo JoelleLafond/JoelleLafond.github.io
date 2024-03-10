@@ -1,5 +1,4 @@
 ---
-
 search: false
 ---
 
@@ -27,6 +26,7 @@ search: false
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
     }
 
 .author__urls.social-icons i,.author__urls.social-icons .svg-inline--fa,.page__footer-follow .social-icons i,.page__footer-follow .social-icons .svg-inline--fa {
@@ -45,6 +45,21 @@ search: false
 .mfp-counter {
     font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
 }
+
+  .excerpt-post {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .title-post {
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+  }
 
 
 .center {
@@ -722,7 +737,8 @@ small,.small {
 }
 
 p {
-    margin-bottom: 1.3em
+    margin-bottom: 1.3em;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 u,ins {
@@ -2434,7 +2450,7 @@ blockquote.notice--danger {
     margin-left: 0;
     margin-right: 0;
     width: 100%;
-    margin-top: 3em;
+    margin-top: 1em;
     color: #5c5c5c;
     -webkit-animation: intro 0.3s both;
     animation: intro 0.3s both;
@@ -2453,9 +2469,9 @@ blockquote.notice--danger {
     clear: both;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 1em;
     max-width: 100%;
-    padding: 0 1em 2em
+    padding: 0 1em 1em
 }
 
 .page__footer footer::after {
@@ -3517,6 +3533,23 @@ body {
     }
   }
 
+  .page__title__centered {
+    margin-top: 0;
+    line-height: 1;
+    text-align: center;
+  
+    a {
+      color: $text-color;
+      text-decoration: none;
+    }
+  
+    & + .page__meta {
+      margin-top: -0.5em;
+    }
+  }
+
+
+
 .page__subtitle {
     font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     font-size: 300% ;
@@ -3526,6 +3559,14 @@ body {
     line-height: 1
 }
 
+.page__subtitle {
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: 300% ;
+    text-align: center;
+    width: 80%;
+    padding: 2% 0% 0% 0%;
+    line-height: 1
+}
 
 
 .page__title+.page__meta,.page__title+.comment__date {
@@ -4639,18 +4680,22 @@ body {
 }
 
 .sidebar .author__name {
-    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-    font-size: 1em
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small
 }
 
 .author__bio {
-    margin: 0
+    margin: 0px 3px 3px 0px;
+    color: #5f6162;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:italic
 }
 
 @media (min-width: 64em) {
     .author__bio {
         margin-top:10px;
-        margin-bottom: 20px
+        margin-bottom: 20px;
+        font-style: italic;
     }
 }
 

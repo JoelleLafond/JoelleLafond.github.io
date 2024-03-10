@@ -2,9 +2,15 @@
 layout: posts
 permalink: /outreach/
 author_profile: true
-title: "Teaching and Outreach"
+title: '<p class="title-post" > Teaching and Outreach </p>'
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banner6.jpg
+excerpt: '<p class="excerpt-post"> Experiences of teacing and outreach </p>' 
 ---
+
 
 ## Outreach
 

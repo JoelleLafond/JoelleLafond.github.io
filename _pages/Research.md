@@ -2,9 +2,15 @@
 layout: posts
 permalink: /research/
 author_profile: true
-title: "Research"
+title: '<p class="title-post" > Research </p>'
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/banner5.jpg
+excerpt: '<p class="excerpt-post"> Sexual & Asexual Reproductions, Sexual Conflicts & Chromosome Evolution </p>' 
 ---
+
 
 <h1> Postdoctoral Research </h1>
 

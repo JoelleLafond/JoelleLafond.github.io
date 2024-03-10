@@ -2,9 +2,15 @@
 layout: posts
 permalink: /publications/
 author_profile: true
-title: "Publications"
+title: '<p class="title-post" > Publications </p>'
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banner3.jpg
+excerpt: '<p class="excerpt-post"> List of publications </p>' 
 ---
+
 
 <h2> Check out my publications by following their link!</h2>
 
