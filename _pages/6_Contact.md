@@ -13,7 +13,13 @@ excerpt: '<p class="excerpt-post"> Email, social medias and research networking<
 
 <h1>How to contact me</h1>
 
-You can reach out to me or follow my work with these social media and websites. However, the quickest and most certain way to contact me remains my email: joelle.lafond [at] umontreal.ca
+The quickest and most certain way to contact me remains emailing me at: 
+
+<p align="center" style="color:blue"> joelle.lafond [at] umontreal.ca </p>
+<p align="center"> or </p>
+<p align="center" style="color:blue"> joelle.lafond [at] ubc.ca </p>
+
+Note that I may be more responsive using the first email address, as the latter is not lookable on mobile apps. You can also reach out to me or follow my work with these social media and websites:
 
 <div class="center_contact">
 

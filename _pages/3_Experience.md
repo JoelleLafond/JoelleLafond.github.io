@@ -2,17 +2,17 @@
 layout: posts
 permalink: /Experience/
 author_profile: true
-title: '<p class="title-post" > Academic Experience </p>'
+title: '<p class="title-post" > Academic Experiences </p>'
 classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/banner7.jpg
+  overlay_image: /assets/images/banner11.jpg
 excerpt: '<p class="excerpt-post"> Curriculum vitae </p>' 
 ---
 
 
-<h2> Check out my CV for an up-to-date list of my academic experience! </h2>
+<h2> Check out my CV for an up-to-date list of my academic experiences! </h2>
 <div style="text-align: justify"><span style="color:#3778C6;" align="justify"> Last Updated: June 17th, 2024</span> </div>
 
 <embed src="../assets/files/JLafond_CV.pdf" width="800px" height="800px" />

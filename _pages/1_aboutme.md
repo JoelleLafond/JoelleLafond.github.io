@@ -6,7 +6,7 @@ title: '<p class="title-post" > About Me </p>'
 classes: wide
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/banner4.jpg
 excerpt: '<p class="excerpt-post"> Background, hobbies and values</p>' 
 ---
@@ -24,16 +24,18 @@ I have always been captivated by the unexpected and intriguing phenomena that ar
 
 
 <p align="justify">
-As a first-generation scholar and woman from a modest background, I have had to overcome significant challenges to pursue my academic and professional goals. However, these experiences have instilled in me a deep sense of resilience, determination, and passion for science.
+As a first-generation scholar and woman from a modest background, I've navigated significant challenges in pursuing my academic and professional goals in science. These experiences, however, have forged a deep well of resilience, determination, and a passionate commitment to scientific advancement.
 
-Through my academic journey, I have learned the importance of perseverance, hard work, and a willingness to learn from others. I am proud of my accomplishments so far and grateful for the support of my mentors, colleagues, and loved ones who have helped me along the way.
+Throughout my journey, I've learned the value of perseverance, hard work, and the power of collaborative learning. I'm incredibly proud of my accomplishments and deeply grateful to the mentors, colleagues, and loved ones who have supported me.
 
-I hope to use my experiences and expertise to contribute to a more diverse, equitable, and inclusive scientific community, where individuals from all backgrounds have the opportunity to thrive and succeed. 
+My experiences have fueled my desire to cultivate a more diverse, equitable, and inclusive scientific community, where individuals from all backgrounds can thrive and contribute their unique perspectives.
+
+This vision, I believe, starts with customized teaching and mentoring approaches that acknowledge each mentee's past experiences and future aspirations. By tailoring our guidance, we can empower them to excel and reach their full potential.
 </p>
 
 
 <p align="justify">
-I am found of nature, and will always be surprise by how diverse it can be. My hobbies includes wildlife photography, arts (mostly with natural subjects) and taking care of my three lovely cats! 
+As for my hobbies, I am found of nature, and will always be surprise by how diverse it can be. My hobbies includes wildlife photography, arts (mostly with natural subjects) and taking care of my three lovely cats! 
 </p>
 
 <img-div>
@@ -41,7 +43,7 @@ I am found of nature, and will always be surprise by how diverse it can be. My h
 <img style="Padding: 10px 10px 10px 10px;" width="525px" src="../assets/images/About2.jpg"/>
 <img style="Padding: 10px 10px 10px 10px;float:left;" width="525px" src="../assets/images/About3.jpg"/>
 <img style="Padding: 10px 10px 10px 10px;" width="525px" src="../assets/images/About6.jpg"/>
-<figcaption>And some places where we went for fish samplings during my PhD</figcaption>
+<figcaption>Some places where we went for fish samplings during my PhD</figcaption>
 </img-div>
 
 

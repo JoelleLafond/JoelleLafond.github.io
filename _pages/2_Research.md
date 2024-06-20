@@ -7,24 +7,24 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/banner9.jpg
-excerpt: '<p class="excerpt-post"> Sexual & Asexual Reproduction, Sexual Conflicts & Chromosome Evolution </p>' 
+  overlay_image: /assets/images/banner13.jpg
+excerpt: '<p class="excerpt-post"> Sexual & Asexual Reproduction, Sexual Conflicts and Chromosome Evolution </p>' 
 ---
 
 
 <h1> Postdoctoral Research </h1>
 
-<p align="justify"> I started a postdoc in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith Mank</a> (University of British Columbia) as of January 2024. My aim in this lab is to investigate sex chromosomes evolution, namely in the light of sexual conflicts. Stay tuned for more infos! 
+<p align="justify"> I started my first postdoctoal experience in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith Mank</a> (University of British Columbia) as of January 2024. My aim in this lab is to investigate sex chromosomes evolution, namely in the light of sexual conflicts. Stay tuned for more exciting research! 
 </p>
 
 
 <h1> PhD Research </h1>
 
-<p align="justify"> Jumping to the PhD right after completing my BSc, I landed in a lab that opened the world of atypical reproductions to me. I was instantly fascinated by the unexpected and unconventional ways that life have to transmit itself to the next generation.
+<p align="justify"> Jumping to the PhD right after completing my BSc, I landed in a lab that opened the world of atypical reproductions to me. I was instantly fascinated by the unexpected and unconventional ways that life has to transmit itself to the next generation.
 </p>
 
 <p align="justify">
-The <i>C. eos-neogaeus</i> hybrid complex is a unique and fascinating study group due to its exceptional combination of sexual and asexual reproduction, polyploidy, and of course hybridization. For my PhD, my research objectives were multifaceted, as I aimed to identify the various reproductive pathways observed in these fish, characterize the origin of the reproductive dichotomy in the triploids, and the impacts of such phenotypic changes on the fish themselves.
+The <i>Chrosomus eos-neogaeus</i> hybrid complex is a unique and fascinating study group due to its exceptional combination of sexual and asexual reproduction, polyploidy, and of course hybridization. For my PhD, my research objectives were multifaceted, as I aimed to identify the various reproductive pathways observed in these fish, characterize the origin of the reproductive dichotomy in the triploids, and the impacts of such phenotypic changes on the fish themselves.
 
 By studying this complex, I sought to uncover the functioning of reproduction in aberrant cases, shedding new light on the diverse and complex processes that drive life on Earth. Through my research, I hope to contribute to a better understanding of the fascinating and intricate world of biology. 
 </p>
@@ -59,7 +59,7 @@ In that <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17264">sec
 <figcaption style="text-align: center">Figure B. The origin of the <i>Chrosomus eos x eos-neogaeus</i> reproductive pathways, and main results of my second chapter.</figcaption>
 </img-div>
 
-## Morphometry
+## The shape of asexuality
 <p align="justify">
 Incoming! 
 </p>

@@ -6,25 +6,26 @@ title: '<p class="title-post" > Publications </p>'
 classes: wide
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/banner3.jpg
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/banner12.jpg
 excerpt: '<p class="excerpt-post"> List of publications </p>' 
 ---
 
 
 <h1> Check out my publications by following their link!</h1>
 
-<div style="text-align: justify"><span style="color:#3778C6;" align="justify"> Most of my papers are open access, however not all are. If you can't find access to the paper you want, please send me a message and I'll be happy to send you a private copy. </span> </div>
+<div style="text-align: justify"><span style="color:#3778C6;" align="justify"> Most of my papers are open access, however if you can't access to the paper you want, please send me a message and I'll be happy to send you a private copy. </span> </div>
 
 <dl>
   <dd></dd>
 </dl>
 
-<p> 6. Lafond J., Leung C. and Angers, B. (2024) (To be released soon!). In review. </p>
+<p> 6. Lafond J., Leung C. and Angers, B. (2024) (To be announced soon!). Accepted (with Revisions) in Nature Communications. </p>
 
 
 [<img style="float: left; margin-right: 10px;" alt="alt_text" width="30px" src="../assets/images/Favicon_Link.png" />](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.17264) 
 <p> 5. Lafond J. and Angers, B. (2024) Maternal ploidy shapes reproductive pathways in the triploid hybrid <i>Chrosomus eos × eos-neogaeus</i>. Molecular Ecology. </p>
+
 
 [<img style="float: left; margin-right: 10px;" alt="alt_text" width="30px" src="../assets/images/Favicon_Link.png" />](https://www.biorxiv.org/content/10.1101/2023.11.14.566324v1#:~:text=Predation%20increased%205%2Dfold%20from,to%20increase%20ant%20predation%20specifically.) 
 <p> 4. Hargreaves et al. (2023) Latitudinal gradients in predation persist in urban environments. BioRxiv. </p>
