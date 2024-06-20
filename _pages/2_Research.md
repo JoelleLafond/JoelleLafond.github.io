@@ -29,6 +29,14 @@ The <i>C. eos-neogaeus</i> hybrid complex is a unique and fascinating study grou
 By studying this complex, I sought to uncover the functioning of reproduction in aberrant cases, shedding new light on the diverse and complex processes that drive life on Earth. Through my research, I hope to contribute to a better understanding of the fascinating and intricate world of biology. 
 </p>
 
+
+<img-div>
+<img style="Padding: 10px 10px 10px 10px;" width="800px" src="../assets/images/complex_window_drawing.jpg" class="center" />
+<figcaption style="text-align: center"><i>Chrosomus eos-neogaeus</i> hybrids.</figcaption>
+</img-div>
+
+
+
 ## Atypical reproductive pathways
 
 <p align="justify">
