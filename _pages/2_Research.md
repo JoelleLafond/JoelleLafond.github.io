@@ -7,7 +7,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/banner5.jpg
+  overlay_image: /assets/images/banner9.jpg
 excerpt: '<p class="excerpt-post"> Sexual & Asexual Reproduction, Sexual Conflicts & Chromosome Evolution </p>' 
 ---
 
