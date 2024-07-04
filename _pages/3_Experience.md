@@ -13,6 +13,14 @@ excerpt: '<p class="excerpt-post"> Curriculum vitae </p>'
 
 
 <h2> Check out my CV for an up-to-date list of my academic experiences! </h2>
+
+Download the latest version of my CV: 
+<a href="../assets/files/JLafond_CV.pdf"> 
+  <img style="display: inline-block; Padding: 10px 10px 10px 10px;" width="60px" src="../assets/images/CV.png" />
+</a>
+
+Or consult the online version below:
+
 <div style="text-align: justify"><span style="color:#3778C6;" align="justify"> Last Updated: June 17th, 2024</span> </div>
 
 <embed src="../assets/files/JLafond_CV.pdf" width="800px" height="800px" />

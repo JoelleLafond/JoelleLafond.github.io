@@ -25,7 +25,7 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
 </a></p>
 
 <p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Latitudinal gradients in predation persist in urban environments</p>
-<p align="justify" style="font-size:85%; margin:0 0 0 0">Hargreaves A. L., Ensing J., Rahn, O., Oliveira F., Burkiewicz J., <b style="color:#1093BD"> Lafond J. </b>, Haeussler S., Best B., Lazda, K., Slinn H. L., Martin E., Carlson, M. L., Sformo T., Dawson-Glass E., Chuiffo M., Vargas-Rodriguez Y. L., García Jiménez C. I., Gomes I., Klemet-N’Guessan S., Paolucci L., Joly S., Mehltreter K., Muñoz J., Buono C., Brodie J. F., Rodriguez-Campbell A., Veen T., Freeman B., Lee-Yaw J., Muñoz J. C., Paquette A., Butler J. and Suaréz E.</p>
+<p align="justify" style="font-size:85%; margin:0 0 0 0">Hargreaves A. L., Ensing J., Rahn, O., Oliveira F., Burkiewicz J., <b style="color:#1093BD"> Lafond J.</b>, Haeussler S., Best B., Lazda, K., Slinn H. L., Martin E., Carlson, M. L., Sformo T., Dawson-Glass E., Chuiffo M., Vargas-Rodriguez Y. L., García Jiménez C. I., Gomes I., Klemet-N’Guessan S., Paolucci L., Joly S., Mehltreter K., Muñoz J., Buono C., Brodie J. F., Rodriguez-Campbell A., Veen T., Freeman B., Lee-Yaw J., Muñoz J. C., Paquette A., Butler J. and Suaréz E.</p>
 <p style="font-size:85%; margin:0 0 0 0">Accepted (with revisions) in <i>Nature Ecology and Evolution. </i> </p>
 <p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/2023.11.14.566324v1">
   <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Link to the Preprint
