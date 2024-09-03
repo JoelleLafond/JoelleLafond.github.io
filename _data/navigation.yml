@@ -6,9 +6,9 @@ main:
     url: /research/
   - title: "Experience"
     url: /Experience/
-  - title: "Teaching and Outreach"
-    url: /outreach/
   - title: "Publications"
     url: /publications/
+  - title: "Teaching and Outreach"
+    url: /outreach/
   - title: "Contact"
     url: /contact/
