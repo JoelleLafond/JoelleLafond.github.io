@@ -17,26 +17,27 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
 <div style="text-align: justify; padding-bottom: 0.5em"><span style="color:#3778C6;" align="justify"> Most of my papers are open access, however if you can't access to the paper you want, please send me a message and I'll be happy to send you a private copy. </span> </div>
 
 <h5>In press </h5>
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">TBA</p>
-<p style="font-size:85%; margin:0 0 0 0"><b style="color:#1093BD">Lafond J.</b>, Leung C. and Angers B. </p>
-<p style="font-size:85%; margin:0 0 0 0">Accepted (with revisions) in <i>Nature Communications. </i> </p>
-<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Link to the paper coming soon
-</a></p>
 
 <p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Latitudinal gradients in predation persist in urban environments</p>
 <p align="justify" style="font-size:85%; margin:0 0 0 0">Hargreaves A. L., Ensing J., Rahn, O., Oliveira F., Burkiewicz J., <b style="color:#1093BD"> Lafond J.</b>, Haeussler S., Best B., Lazda, K., Slinn H. L., Martin E., Carlson, M. L., Sformo T., Dawson-Glass E., Chuiffo M., Vargas-Rodriguez Y. L., García Jiménez C. I., Gomes I., Klemet-N’Guessan S., Paolucci L., Joly S., Mehltreter K., Muñoz J., Buono C., Brodie J. F., Rodriguez-Campbell A., Veen T., Freeman B., Lee-Yaw J., Muñoz J. C., Paquette A., Butler J. and Suaréz E.</p>
 <p style="font-size:85%; margin:0 0 0 0">Accepted (with revisions) in <i>Nature Ecology and Evolution. </i> </p>
 <p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/2023.11.14.566324v1">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Link to the Preprint
+  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Preprint
 </a></p>
 
 <h5>2024 </h5>
+<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Asexuality shapes traits in a hybrid fish</p>
+<p style="font-size:85%; margin:0 0 0 0"><b style="color:#1093BD">Lafond J.</b>, Leung C. and Angers B. </p>
+<p style="font-size:85%; margin:0 0 0 0"><i>Nature Communications</i>, 2024(15): 7642. </p>
+<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.nature.com/articles/s41467-024-52041-x.epdf?sharing_token=8yDjly6oZNO67dIqktgNUdRgN0jAjWel9jnR3ZoTv0N-BqkxlAlM3RDrjTXo6iM8VV_eqw3pTiMC4mh6lkvyTKNQbQzzePuJoJLSn53CrtSlS-U93AQ9N0xEP-zPTOzdpq98jZhR6OykU04IEXQL74end5dkJRUbAjVDkQfZwSo%3D">
+  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
+</a></p>
+
 <p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Maternal ploidy shapes reproductive pathways in the triploid hybrid <i>Chrosomus eos × eos-neogaeus</i></p>
 <p style="font-size:85%; margin:0 0 0 0"><b style="color:#1093BD">Lafond J.</b> and Angers B. </p>
 <p style="font-size:85%; margin:0 0 0 0"><i>Molecular Ecology</i>, 33(5): e17264. </p>
 <p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.17264">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Link to the paper
+  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
 </a></p>
 
 <h5>2023 </h5>
@@ -44,7 +45,7 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
 <p style="font-size:85%; margin:0 0 0 0">L’heureux E., <b style="color:#1093BD">Lafond J.</b> and Angers B. </p>
 <p style="font-size:85%; margin:0 0 0 0"><i>Bioinvasions Records</i>, 12(1): 136–150.</p>
 <p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.reabic.net/journals/bir/2023/1/BIR_2023_L%E2%80%99Heureux_etal.pdf">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Link to the paper
+  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
 </a></p>
 
 <h5>2020 </h5>
@@ -52,7 +53,7 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
 <p style="font-size:85%; margin:0 0 0 0">Monette K., Leung C., <b style="color:#1093BD">Lafond J.</b>, Wittische J. and Angers B. </p>
 <p style="font-size:85%; margin:0 0 0 0"><i>Ecology and Evolution</i>, 10(1): 307-319.</p>
 <p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5896">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Link to the paper
+  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
 </a></p>
 
 <h5>2019 </h5>
@@ -60,7 +61,7 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
 <p style="font-size:85%; margin:0 0 0 0"><b style="color:#1093BD">Lafond J.</b>, Hénault P., Leung C. and Angers B.</p>
 <p style="font-size:85%; margin:0 0 0 0"><i>Journal of Heredity</i>, 110(3): 370–377. </p>
 <p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://academic.oup.com/jhered/article/110/3/370/5268115">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Link to the paper
+  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
 </a></p>
 
 
