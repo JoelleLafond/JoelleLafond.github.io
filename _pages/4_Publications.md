@@ -16,6 +16,10 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
 
 <div style="text-align: justify; padding-bottom: 0.5em"><span style="color:#3778C6;" align="justify"> Most of my papers are open access, however if you can't access to the paper you want, please send me a message and I'll be happy to send you a private copy. </span> </div>
 
+<h5>2025 </h5>
+
+<p> Stay tuned, many exciting projects will be out this year! </p>
+
 <h5>2024 </h5>
 
 <p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Latitudinal gradients in predation persist in urban environments</p>
