@@ -14,7 +14,7 @@ excerpt: '<p class="excerpt-post"> Sexual/Asexual Reproduction & Sex Chromosomes
 
 <h1> Postdoctoral Research </h1>
 
-<p align="justify"> I started my first postdoctoal experience in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith Mank</a> (University of British Columbia) as of June 2024. My aim in this lab is to investigate sex chromosomes evolution, namely in the light of sexual conflicts. Stay tuned for more exciting research! 
+<p align="justify"> I started my first postdoctoal experience in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith Mank</a> (University of British Columbia) as of June 2024. My aim in this lab is to investigate sex chromosomes evolution, namely in the light of recombinaiton loss. Stay tuned for more exciting research! 
 </p>
 
 
