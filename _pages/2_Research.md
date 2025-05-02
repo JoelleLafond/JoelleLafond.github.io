@@ -61,9 +61,13 @@ In that <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17264">sec
 
 ## The shape of asexuality
 <p align="justify">
-Incoming! 
+In my last <a href="https://www.nature.com/articles/s41467-024-52041-x">third and last PhD chapter</a>, we investigated whether the two groups of triploid females, one that reproduce sexually and the other asexually, would differ in their non-sexual traits. These females are an awesome model, since we do not expect them to have difference in their genetics, sexual selection or any other confounding effects - that we could think of! analyzing the shape of their head resulted in a highly marked difference, that was also found to be not only between triploids, but between the sexual and asexual members of the <i>C. eos-neogaeus complex</i> (Figure C). This observation suggests that the differentiation of the gonads can have a broad developmental impact. 
 </p>
 
+<img-div>
+<img style="Padding: 10px 10px 10px 10px;" width="800px" src="../assets/images/Paper3.jpg" class="center" />
+<figcaption style="text-align: center">Figure C. The head shape divergence of the <i>Chrosomus eos x eos-neogaeus</i> complex, and main results of my third chapter.</figcaption>
+</img-div>
 
 
 <!-- Back to top button -->
