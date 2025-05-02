@@ -20,7 +20,7 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
 
 <p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Latitudinal gradients in predation persist in urban environments</p>
 <p align="justify" style="font-size:85%; margin:0 0 0 0">Hargreaves A. L., Ensing J., Rahn, O., Oliveira F., Burkiewicz J., <b style="color:#1093BD"> Lafond J.</b>, Haeussler S., Best B., Lazda, K., Slinn H. L., Martin E., Carlson, M. L., Sformo T., Dawson-Glass E., Chuiffo M., Vargas-Rodriguez Y. L., García Jiménez C. I., Gomes I., Klemet-N’Guessan S., Paolucci L., Joly S., Mehltreter K., Muñoz J., Buono C., Brodie J. F., Rodriguez-Campbell A., Veen T., Freeman B., Lee-Yaw J., Muñoz J. C., Paquette A., Butler J. and Suaréz E.</p>
-<p style="font-size:85%; margin:0 0 0 0"><i>Nature Ecology and Evolution</i>, 2024. </p>
+<p style="font-size:85%; margin:0 0 0 0"><i>Nature Ecology and Evolution</i>, 8, pages 1897–1906. </p>
 <p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.nature.com/articles/s41559-024-02504-7">
   <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
 </a></p>
