@@ -26,7 +26,7 @@ excerpt: '<p class="excerpt-post"> Sexual/Asexual Reproduction & Sex Chromosomes
 <p align="justify">
 The <i>Chrosomus eos-neogaeus</i> hybrid complex is a unique and fascinating study group due to its exceptional combination of sexual and asexual reproduction, polyploidy, and of course hybridization. For my PhD, my research objectives were multifaceted, as I aimed to identify the various reproductive pathways observed in these fish, characterize the origin of the reproductive dichotomy in the triploids, and the impacts of such phenotypic changes on the fish themselves.
 
-By studying this complex, I sought to uncover the functioning of reproduction in aberrant cases, shedding new light on the diverse and complex processes that drive life on Earth. Through my research, I hope to contribute to a better understanding of the fascinating and intricate world of biology. 
+By studying this complex, I sought to uncover the functioning of reproduction in aberrant cases, shedding new light on the diverse and complex processes that drive life. Through my research, I hope to contribute to a better understanding of the fascinating and intricate world of biology. 
 </p>
 
 
@@ -36,11 +36,10 @@ By studying this complex, I sought to uncover the functioning of reproduction in
 </img-div>
 
 
-
 ## Atypical reproductive pathways
 
 <p align="justify">
-My <a href="https://academic.oup.com/jhered/article/110/3/370/5268115">first research project</a> focused on how <i>Chrosomus eos x eos-neogaeus</i> triploid hybrids were able to perpetuate themselves. We had, at that point, many reasons to think their reproductive success was low. However, we actually found that half of the triploid females crossed for the experiment harboured offspring through meiotic hybridogenesis, while the other half produced offspring through another, unknown type of gametogenesis, named <i>ameiotic hybridogenesis</i>. As well, the different types of hybridogenesis occurred in an exclusive manner, with females being able to do only one and never a mix of the two! This research shedded new light on the population dynamics of this complex and revealed a more complex picture than previously thought (Figure A). 
+My <a href="https://academic.oup.com/jhered/article/110/3/370/5268115">first research project</a> focused on how <i>Chrosomus eos x eos-neogaeus</i> triploid hybrids were able to perpetuate themselves. We had, at that point, many reasons to think their reproductive success was simply low. However, we actually found that these females had a good reproductive succes and, mor eimportantly, that half of the triploid females crossed for the experiment harboured offspring through meiotic hybridogenesis, while the other half produced offspring through another, unknown type of gametogenesis, named <i>ameiotic hybridogenesis</i>. As well, the different types of hybridogenesis occurred in an exclusive manner, with females being able to do only one and never a mix of the two! This research shedded new light on the population dynamics of this complex and revealed a more complex picture than previously thought (Figure A). 
 </p>
 
 <img-div>
@@ -51,7 +50,7 @@ My <a href="https://academic.oup.com/jhered/article/110/3/370/5268115">first res
 
 ## Maternal effects and gametogenesis
 <p align="justify">
-In that <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17264">second research project</a>, we worked on uncovering the mechanism which produced the reproductive dichotomy in triploid hybrids. We found out that epigenetic patterns in females of a certain reproduction group was concordant with the epigenetic patterns of young larvae, raised in common garden conditions, according to their maternal origin. Indeed, it was found that the ploidy of the hybrid mothers would impact the larvae's gonadal development, leading to either reproductive pathway (Figure B). 
+In that <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17264">second research project</a>, we worked on uncovering the mechanism which produced the reproductive dichotomy in triploid hybrids. We found out that epigenetic patterns in females of a certain reproduction group was concordant with the epigenetic patterns of young larvae, raised in common garden conditions, according to their maternal origin. this led us to suggest that the ploidy of the hybrid mothers would impact the larvae's gonadal development, leading to either reproductive pathway (Figure B). This is the first supposed maternal effect influencing reproductive processes! 
 </p>
 
 <img-div>
@@ -61,12 +60,12 @@ In that <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17264">sec
 
 ## The shape of asexuality
 <p align="justify">
-In my last <a href="https://www.nature.com/articles/s41467-024-52041-x">third and last PhD chapter</a>, we investigated whether the two groups of triploid females, one that reproduce sexually and the other asexually, would differ in their non-sexual traits. These females are an awesome model, since we do not expect them to have differences in their genetics, sexual selection or any other confounding effects - that we could think of! Analyzing the shape of their head resulted in a highly marked difference, that was also found to be not only between triploids, but between the sexual and asexual members of the <i>C. eos-neogaeus complex</i> (Figure C). This observation suggests that the differentiation of the gonads can have a broad developmental impact in organisms. 
+In my <a href="https://www.nature.com/articles/s41467-024-52041-x">third and last PhD chapter</a>, we investigated whether the two groups of triploid females, one that reproduce sexually and the other asexually, would differ in their non-sexual traits. These females are an awesome model, since we do not expect them to have differences in their genetics, sexual selection or any other confounding effects – that we could think of, at least! Analyzing the shape of their head resulted in a highly marked difference, that was also found to be not only between triploids, but between the sexual and asexual members of the <i>C. eos-neogaeus complex</i> (Figure C). This observation suggests that the differentiation of the gonads can have a broad developmental impact in organisms. 
 </p>
 
 <img-div>
 <img style="Padding: 10px 10px 10px 10px;" width="800px" src="../assets/images/Paper3.png" class="center" />
-<figcaption style="text-align: center">Figure C. The head shape divergence of the <i>Chrosomus eos x eos-neogaeus</i> complex, and main results of my third chapter. A-11 and B-01 are hybrid lineages.</figcaption> Note how results persist in both natural conditions and in a common garden experiment.  
+<figcaption style="text-align: center">Figure C. The head shape divergence of the <i>Chrosomus eos x eos-neogaeus</i> complex, and main results of my third chapter. A-11 and B-01 are hybrid lineages.Note how results persist in both natural conditions and in a common garden experiment. </figcaption> 
 </img-div>
 
 
