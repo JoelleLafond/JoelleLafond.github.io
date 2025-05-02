@@ -21,7 +21,7 @@ Download the latest version of my CV:
 
 Or consult the online version below:
 
-<div style="text-align: justify"><span style="color:#3778C6;" align="justify"> Last Updated: June 17th, 2024</span> </div>
+<div style="text-align: justify"><span style="color:#3778C6;" align="justify"> Last Updated: May 2nd, 2025 </span> </div>
 
 <embed src="../assets/files/JLafond_CV.pdf" width="800px" height="800px" />
 
