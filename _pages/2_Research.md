@@ -66,7 +66,7 @@ In my last <a href="https://www.nature.com/articles/s41467-024-52041-x">third an
 
 <img-div>
 <img style="Padding: 10px 10px 10px 10px;" width="800px" src="../assets/images/Paper3.png" class="center" />
-<figcaption style="text-align: center">Figure C. The head shape divergence of the <i>Chrosomus eos x eos-neogaeus</i> complex, and main results of my third chapter.</figcaption> A-11 and B-01 are hybrid lineages. Note how results persist in both natural conditions and in a common garden experiment.  
+<figcaption style="text-align: center">Figure C. The head shape divergence of the <i>Chrosomus eos x eos-neogaeus</i> complex, and main results of my third chapter. A-11 and B-01 are hybrid lineages.</figcaption> Note how results persist in both natural conditions and in a common garden experiment.  
 </img-div>
 
 
