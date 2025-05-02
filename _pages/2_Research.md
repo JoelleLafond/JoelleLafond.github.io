@@ -8,13 +8,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/banner13.jpg
-excerpt: '<p class="excerpt-post"> Sexual & Asexual Reproduction, Sexual Conflicts and Chromosome Evolution </p>' 
+excerpt: '<p class="excerpt-post"> Sexual/Asexual Reproduction & Sex Chromosomes Evolution </p>' 
 ---
 
 
 <h1> Postdoctoral Research </h1>
 
-<p align="justify"> I started my first postdoctoal experience in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith Mank</a> (University of British Columbia) as of January 2024. My aim in this lab is to investigate sex chromosomes evolution, namely in the light of sexual conflicts. Stay tuned for more exciting research! 
+<p align="justify"> I started my first postdoctoal experience in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith Mank</a> (University of British Columbia) as of June 2024. My aim in this lab is to investigate sex chromosomes evolution, namely in the light of sexual conflicts. Stay tuned for more exciting research! 
 </p>
 
 
@@ -66,7 +66,7 @@ In my last <a href="https://www.nature.com/articles/s41467-024-52041-x">third an
 
 <img-div>
 <img style="Padding: 10px 10px 10px 10px;" width="800px" src="../assets/images/Paper3.png" class="center" />
-<figcaption style="text-align: center">Figure C. The head shape divergence of the <i>Chrosomus eos x eos-neogaeus</i> complex, and main results of my third chapter.</figcaption>
+<figcaption style="text-align: center">Figure C. The head shape divergence of the <i>Chrosomus eos x eos-neogaeus</i> complex, and main results of my third chapter.</figcaption> A-11 and B-01 are hybrid lineages. Note how results persist in both natural conditions and in a common garden experiment.  
 </img-div>
 
 
