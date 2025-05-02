@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/banner8.jpg
-excerpt: '<p class="excerpt-post"> Email, social medias and research networking</p>' 
+excerpt: '<p class="excerpt-post"> Emails, social medias and research networking</p>' 
 ---
 
 <h1>How to contact me</h1>
@@ -20,10 +20,6 @@ The quickest and most certain way to contact me remains emailing me at:
 You can also reach out to me or follow my work with these social media and websites:
 
 <div class="center_contact">
-
-  <a href="https://twitter.com/JoelleLafond">
-    <img style="float: left; Padding: 10px 10px 10px 10px;" width="80px" src="../assets/images/twitter.png" />
-   </a>
 
    <a href="https://bsky.app/profile/joellelafond.bsky.social">
     <img style="float: left; Padding: 10px 10px 10px 10px;" width="80px" src="../assets/images/bsky.png" />
