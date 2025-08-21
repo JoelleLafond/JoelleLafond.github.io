@@ -4,38 +4,44 @@ layout: splash
 date: 09/01/2023
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/banner2.jpg
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/banner_picta3.jpg
 excerpt: Department of Zoology,<br>University of British Columbia,<br> Vancouver, BC, Canada <br>
 
 ---
 
 <div> 
-  <h5 style="text-align: center; padding-bottom: 2em;"> 
-    <i>Biology has always fascinated me with its stunning and surprising phenomena. Studying reproductive biology — and the diverse processes surrounding it — felt like a natural path to follow!</i> 
+  <h5 style="text-align: center; padding-bottom: 1em;"> 
+    <i>Exploring how life’s most surprising exceptions shape evolution</i> 
   </h5> 
 </div> 
 
 <p> 
-  From studying atypical reproductive processes like asexual reproduction to investigating the forces driving sex chromosome evolution, I aspire to one day lead a lab that takes a holistic approach to reproductive biology. My goal is to understand how these processes shape organisms and influence their communities. 
+  The intricate nature of living organisms has always captivated me. My curiosity about how species evolve and adapt to their environments naturally led me to focus on reproduction and the transmission of DNA, processes that sit at the very heart of evolution. In my research, I aim to uncover how these fundamental mechanisms shape the diversity of life around us.
+</p>
 
-  In May 2024, I reached a major milestone: my PhD thesis was accepted and nominated for both the <i>Rector's Honor List</i> and the <i>Best Thesis Awards</i>. Since June 2024, I’ve been pursuing an exciting postdoctoral journey at the University of British Columbia (UBC) in the lab of the renowned <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith E. Mank</a>. Here, I am exploring the evolution of sex chromosomes within the vibrant guppy family. Stay tuned — there's much more exciting research to come!
+<p>
+  I’ve always been drawn to nature’s exceptions — the rare and atypical phenomena that challenge our expectations. From studying atypical reproductive processes like asexual reproduction to investigating the forces driving extreme Y chromosome degeneration, I aspire to one day lead a lab that takes a holistic approach to reproductive biology. My goal is to understand how these processes shape organisms and, sometimes, even influence the surrounding species. 
+</p>
+
+<p>
+  In 2024, I reached two major milestones: first, my PhD thesis was accepted and nominated for both the <i>Rector's Honor List</i> and the <i>Best Thesis Awards</i>. Second, I started an exciting postdoctoral journey at the University of British Columbia (UBC) in the lab of the renowned <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith E. Mank</a>, where I explored the evolution of sex chromosomes within the vibrant guppy family. Stay tuned — there's exciting research coming out soon!
 </p>
 
 <div> 
-  <h5 style="text-align: center; padding-bottom: 0.5em; color: #1e509c;"> 
+  <h5 style="text-align: center; padding-bottom: 0.5em; margin: 1em 0 0.5em; color: #1e509c;"> 
     <i>Exciting News</i> 
   </h5> 
   <p>
-    I'm thrilled to share that I’ve been awarded an FRQ (section Nature et Technology) Postdoctoral Research Fellowship, starting in May 2025! This fellowship will support the next stage of my research on sex chromosome evolution and recombination loss. I'm deeply grateful for the opportunity and support.
+    I'm thrilled to share that I’ve been awarded an FRQ (section Nature et Technology) Postdoctoral Research Fellowship! This fellowship will support the next stage of my research on sex chromosome evolution and recombination loss in the lab of the awesome <a href="https://wright.eeb.utoronto.ca/"> Dr. Stephen Wright</a> (University of Toronto). I'm deeply grateful for the opportunity and support.
   </p>
 </div> 
 
 
 
 <img-div>
-<img class="center" style="Padding: 30px 10px 10px 10px; " width="700px" src="../assets/images/guppies.png"/>
-<figcaption style="text-align: center">Guppies' beautiful and diverse colorations </figcaption>
+<img class="center" style="Padding: 30px 10px 10px 10px; " width="1500px" src="../assets/images/guppies_index.png"/>
+<figcaption style="text-align: center">A small array of magnificent guppy species</figcaption>
 </img-div>
 
 <!-- Back to top button -->
@@ -44,29 +50,48 @@ excerpt: Department of Zoology,<br>University of British Columbia,<br> Vancouver
 </button>
 
 <script>
-//Get the button
-let mybutton = document.getElementById("btn-back-to-top");
-
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function () {
-  scrollFunction();
-};
-
-function scrollFunction() {
-  if (
-    document.body.scrollTop > 20 ||
-    document.documentElement.scrollTop > 20
-  ) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
+  // Get the button
+  let mybutton = document.getElementById("btn-back-to-top");
+  
+  // Show the button when scrolling down
+  window.onscroll = function () {
+    scrollFunction();
+  };
+  
+  function scrollFunction() {
+    if (
+      document.body.scrollTop > 20 ||
+      document.documentElement.scrollTop > 20
+    ) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
   }
-}
-// When the user clicks on the button, scroll to the top of the document
-mybutton.addEventListener("click", backToTop);
-
-function backToTop() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-</script>
+  
+  // Smooth scroll to top over 1.0 seconds
+  mybutton.addEventListener("click", backToTop);
+  
+  function backToTop() {
+    const duration = 1000; // 1.0 seconds
+    const start = document.documentElement.scrollTop || document.body.scrollTop;
+    const startTime = performance.now();
+  
+    function scrollStep(currentTime) {
+      const elapsed = currentTime - startTime;
+      const progress = Math.min(elapsed / duration, 1); // clamp 0–1
+      const ease = 1 - Math.pow(1 - progress, 3); // ease-out cubic
+      const position = start * (1 - ease);
+  
+      document.documentElement.scrollTop = position;
+      document.body.scrollTop = position;
+  
+      if (progress < 1) {
+        requestAnimationFrame(scrollStep);
+      }
+    }
+  
+    requestAnimationFrame(scrollStep);
+  }
+  </script>
+  
