@@ -18,7 +18,12 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
 
 <h5>2025 </h5>
 
-<p> Stay tuned, many exciting projects will be out this year! </p>
+<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Urbanization drives genetic and plastic responses of spotted jewelweed flower morphology</p>
+<p align="justify" style="font-size:85%; margin:0 0 0 0">Burkiewicz J., Carvalho J., Caporgno S., Devaux C., Lafond J., Normandin E. and Joly S.</p>
+<p style="font-size:85%; margin:0 0 0 0"></p>
+<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/2025.06.10.658901v2">
+  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Preprint
+</a></p>
 
 <h5>2024 </h5>
 
