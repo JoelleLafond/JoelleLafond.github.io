@@ -3691,7 +3691,7 @@ body {
 .page__hero--overlay {
     max-height: 100%;
     position: relative;
-    margin-bottom: 2em;
+    margin-bottom: 0em;
     padding: 3em 0;
     clear: both;
     background-size: cover;
@@ -5086,4 +5086,60 @@ body {
         display: none !important;
         height: 1px !important
     }
+}
+
+#main {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.sidebar-left-news {
+  width: 280px;
+  flex-shrink: 0;
+  position: sticky;
+  top: 100px;
+  padding: 0em 0.5em 0em 0.5em;
+}
+
+.news-feed {
+  background-image: 
+    linear-gradient(
+    rgba(0, 0, 0, 0.3),
+    rgba(0, 0, 0, 0.3)), 
+    url("../images/Background_news.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  color: white;
+  font-size: 0.85rem;
+  padding: 0.1rem 1rem 0.1rem 1rem;
+  margin: 1rem 0 0 0;
+}
+
+.news-feed li {
+  margin-bottom: 1rem;
+  
+}
+
+.news-feed h3 {
+    color: white;
+  margin-top: 1rem;
+}
+
+.news-feed a {
+color: #9ecfff; /* pale blue */
+text-decoration: none;
+}
+ 
+.news-feed a:hover {
+color: #c7e3ff; /* even lighter on hover */
+text-decoration: underline;
+}
+
+
+.page {
+  flex: 1;
+  min-width: 0;
 }

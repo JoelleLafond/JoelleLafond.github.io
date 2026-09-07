@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /About/
-author_profile: true
+author_profile: false
 title: '<p class="title-post" > About Me </p>'
 classes: wide
 header:
@@ -10,6 +10,8 @@ header:
   overlay_image: /assets/images/banner4.jpg
 excerpt: '<p class="excerpt-post"> Background, hobbies and values</p>' 
 ---
+
+
 
 <h1> A little background </h1>
 
@@ -39,13 +41,12 @@ As for my hobbies, I am found of nature, and will always be surprise by how dive
 </p>
 
 <img-div>
-<img style="Padding: 10px 10px 10px 10px; float:left;" width="525px" src="../assets/images/About1.jpg"/>
-<img style="Padding: 10px 10px 10px 10px;" width="525px" src="../assets/images/About2.jpg"/>
-<img style="Padding: 10px 10px 10px 10px;float:left;" width="525px" src="../assets/images/About3.jpg"/>
-<img style="Padding: 10px 10px 10px 10px;" width="525px" src="../assets/images/About6.jpg"/>
+<img class="center" style="Padding: 10px 10px 10px 10px" width="525px" src="../assets/images/About1.jpg"/>
+<img class="center" style="Padding: 10px 10px 10px 10px" width="525px" src="../assets/images/About2.jpg"/>
+<img class="center" style="Padding: 10px 10px 10px 10px" width="525px" src="../assets/images/About3.jpg"/>
+<img class="center" style="Padding: 10px 10px 10px 10px" width="525px" src="../assets/images/About6.jpg"/>
 <figcaption>Some places where we went for fish samplings during my PhD</figcaption>
 </img-div>
-
 
 
 <!-- Back to top button -->

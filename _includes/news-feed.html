@@ -1,0 +1,16 @@
+<div class="news-feed">
+  <h3>News!</h3>
+
+  <ul>
+  {% for item in site.data.news limit:10 %}
+    <li>
+      <strong>{{ item.date }}</strong><br>
+      {% if item.url %}
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      {% else %}
+        {{ item.title }}
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+</div>
