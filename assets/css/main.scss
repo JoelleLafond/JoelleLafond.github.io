@@ -88,6 +88,16 @@ search: false
     margin-right: auto;
   }
 
+.center-text {
+    text-align: center;
+  } 
+
+.center-text span {
+    display: flex;
+    justify-content: center;
+  }  
+
+
 
 .mfp-bg {
     top: 0;
@@ -610,7 +620,7 @@ body {
 
 ::selection {
     color: #333333;
-    background: #4ad4b6
+    background: #86c6d6
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section {
@@ -761,6 +771,7 @@ p {
     margin-bottom: 1.3em;
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify
+    font-size: 0.90rem;
 }
 
 u,ins {
@@ -3623,7 +3634,7 @@ body {
 }
 
 .page__content p,.page__content li,.page__content dl {
-    font-size: 1em
+    font-size: 0.90rem
 }
 
 .page__content p {

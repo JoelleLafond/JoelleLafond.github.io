@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/banner4.jpg
-excerpt: '<p class="excerpt-post"> Background, hobbies and values</p>' 
+excerpt: '<p class="excerpt-post"> Background, values and hobbies</p>' 
 ---
 
 
@@ -16,7 +16,7 @@ excerpt: '<p class="excerpt-post"> Background, hobbies and values</p>'
 <h1> A little background </h1>
 
 <p align="justify">
-I have always been captivated by the unexpected and intriguing phenomena that arise in the study of biology. It was then only natural for me to gravitate towards atypical reproductive processes, which led me to pursue a PhD project focused on understanding the reproduction of the diploid and triploid hybrid fish <i>Chrosomus eos-neogaeus</i>. 
+My fascination with biology has always stemmed from the unexpected. I am particularly drawn to the unusual and intriguing phenomena that challenge our understanding of how life works. It was therefore only natural for me to become interested in atypical reproductive modes, which eventually led me to pursue a PhD focused on the reproduction of the diploid and triploid hybrid fish <i>Chrosomus eos-neogaeus</i>. 
 </p>
 
 <img-div>
@@ -26,27 +26,27 @@ I have always been captivated by the unexpected and intriguing phenomena that ar
 
 
 <p align="justify">
-As a first-generation scholar and woman from a modest background, I've navigated significant challenges in pursuing my academic and professional goals in science. These experiences, however, have forged a deep well of resilience, determination, and a passionate commitment to scientific advancement.
-
-Throughout my journey, I've learned the value of perseverance, hard work, and the power of collaborative learning. I'm incredibly proud of my accomplishments and deeply grateful to the mentors, colleagues, and loved ones who have supported me.
-
-My experiences have fueled my desire to cultivate a more diverse, equitable, and inclusive scientific community, where individuals from all backgrounds can thrive and contribute their unique perspectives.
-
-This vision, I believe, starts with customized teaching and mentoring approaches that acknowledge each mentee's past experiences and future aspirations. By tailoring our guidance, we can empower them to excel and reach their full potential.
-</p>
-
+My path into academia was not exactly what one would call conventional. I grew up in a rural environment surrounded by forests, wildlife, and nature, which fostered my curiosity about the living world from an early age. Although I always enjoyed science, I was unaware that academic research was even a career option until I began my undergraduate studies.</p>
 
 <p align="justify">
-As for my hobbies, I am found of nature, and will always be surprise by how diverse it can be. My hobbies includes wildlife photography, arts (mostly with natural subjects) and taking care of my three lovely cats! 
+As a first-generation university student from a modest background, navigating higher education often meant learning its unwritten rules on my own. From scholarship applications to graduate studies and academic research, many aspects of the academic world were unfamiliar to me. These experiences taught me resilience, independence, and perseverance, while also highlighting the profound impact that mentors and understanding, supportive communities can have on a student's trajectory. </p>
+
+<p align="justify">
+Throughout my career, I have been fortunate to work with outstanding mentors, collaborators, students, and colleagues. Their support has shaped my development as both a researcher and an educator. These experiences have also strengthened my commitment to building a scientific community that is inclusive, supportive, and accessible to individuals from diverse backgrounds and life experiences.
 </p>
 
-<img-div>
-<img class="center" style="Padding: 10px 10px 10px 10px" width="525px" src="../assets/images/About1.jpg"/>
-<img class="center" style="Padding: 10px 10px 10px 10px" width="525px" src="../assets/images/About2.jpg"/>
-<img class="center" style="Padding: 10px 10px 10px 10px" width="525px" src="../assets/images/About3.jpg"/>
-<img class="center" style="Padding: 10px 10px 10px 10px" width="525px" src="../assets/images/About6.jpg"/>
+<p align="justify">
+As I develop my own research program, I strive to foster an environment where students can grow scientifically while remaining true to their individual goals, strengths, and aspirations. I believe that effective mentorship requires recognizing that each trainee arrives with a unique background and set of experiences, and that personalized guidance is essential for helping them reach their full potential.
+</p>
+
+<div style="margin:0 auto 1rem auto;">
+<img class="center" style="Padding: 10px 10px 10px 10px" src="../assets/images/About_all.png"/>
 <figcaption>Some places where we went for fish samplings during my PhD</figcaption>
-</img-div>
+</div>
+
+<p align="justify">
+Outside of academia, I remain deeply connected to the natural world that originally inspired my interest in biology. I enjoy wildlife photography, creating nature-inspired artwork, and exploring the remarkable diversity of ecosystems and organisms around us. I also share my home with three very spoiled cats, who ensure that life outside the lab is never boring.
+</p>
 
 
 <!-- Back to top button -->

@@ -8,16 +8,18 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/banner8.jpg
-excerpt: '<p class="excerpt-post"> Emails, social medias and research networking</p>' 
+excerpt: '<p class="excerpt-post"> Email, social medias and research networking</p>' 
 ---
 
-<h1>How to contact me</h1>
+<div class="center-text" style="padding: 0 0 1em 0; text-align: center">
 
-The quickest and most certain way to contact me remains emailing me at: 
+The quickest and most up-to-date way to contact me remains emailing me at: 
 
-<p align="center"> <span style="color:blue"> joelle.lafond [at] umontreal.ca</span> </p>
+<p> <span style="color: #4b88b1"> joelle.lafond [at] umontreal.ca</span> </p>
 
 You can also reach out to me or follow my work with these social media and websites:
+</div>
+
 
 <div class="center_contact">
 
