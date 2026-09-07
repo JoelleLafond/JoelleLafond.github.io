@@ -5087,6 +5087,9 @@ body {
         height: 1px !important
     }
 }
+///////////////////////////////////////////////////////////
+// How my news left tab is computed:
+///////////////////////////////////////////////////////////
 
 #main {
   display: flex;
@@ -5116,6 +5119,7 @@ body {
   font-size: 0.85rem;
   padding: 0.1rem 1rem 0.1rem 1rem;
   margin: 1rem 0 0 0;
+  border-radius: 8px;
 }
 
 .news-feed li {
@@ -5138,8 +5142,29 @@ color: #c7e3ff; /* even lighter on hover */
 text-decoration: underline;
 }
 
-
 .page {
   flex: 1;
   min-width: 0;
+}
+
+///////////////////////////////////////////////////////////
+// How my journey tab (landing page) is computed:
+///////////////////////////////////////////////////////////
+
+.journey-box {
+  position: relative;      /* anchors the label inside this box */
+  border: 1px solid #888888;  /* adjust color/thickness */
+  border-radius: 4px;
+  padding: 1.6rem 1.2rem 1.2rem 1.2rem; /* extra top padding so text clears the label */
+  margin: 1.5rem 0;
+}
+
+.journey-label {
+  position: absolute;
+  top: -0.75em;         /* pulls it up so it straddles the top border */
+  left: 1.5rem;         /* distance from the right edge — tweak as needed */
+  background: #f6f6f6;      /* MUST match the page's actual background color */
+  padding: 0 0.6rem;
+  font-weight: bold;
+  font-size: 0.9rem;
 }
