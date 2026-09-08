@@ -770,7 +770,7 @@ small,.small {
 p {
     margin-bottom: 1.3em;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: justify
+    text-align: justify;
     font-size: 0.90rem;
 }
 
@@ -5157,6 +5157,13 @@ text-decoration: underline;
   flex: 1;
   min-width: 0;
 }
+
+@media (max-width: 768px) {
+  .sidebar-left-news {
+    display: none;
+  }
+}
+
 
 ///////////////////////////////////////////////////////////
 // How my journey tab (landing page) is computed:
