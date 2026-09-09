@@ -11,82 +11,240 @@ header:
 excerpt: '<p class="excerpt-post">List of published articles and preprints</p>' 
 ---
 
+<p style="padding: 1em 0 0 0; margin: 0 0 0 0"> Most of my papers are open access, however if you can't access the paper you want, please send me a message and I'll be happy to send you a private copy. </p>
 
-<div style="text-align: justify; padding-bottom: 0.5em"><span style="color:#6D777A;" align="justify"> Most of my papers are open access, however if you can't access to the paper you want, please send me a message and I'll be happy to send you a private copy. </span> </div>
+<br>
 
-<h5>2026 </h5>
-
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Reproductive modes and the evolution of mutation rate</p>
-<p align="justify" style="font-size:85%; margin:0 0 0 0"><b style="color:#1093BD">Lafond J.</b>, Saravanakumar S., Neiman M., Zufall R.A., Wright S.I. and Azevedo R.B.R.</p>
-<p style="font-size:85%; margin:0 0 0 0"></p>
-<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://doi.org/10.32942/X2NT2J">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Preprint
-</a></p>
-
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Structural and Functional Divergence of the <i>Poecilia picta</i> Sex Chromosomes</p>
-<p align="justify" style="font-size:85%; margin:0 0 0 0"><b style="color:#1093BD">Lafond J.</b>, Lin Y., Fong L.J.M. and Mank J.</p>
-<p style="font-size:85%; margin:0 0 0 0"><i>Molecular Ecology</i>, Volume 35, Issue 9, Page e70353.</p>
-<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.70353">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
-</a></p>
-
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Urbanization correlates with genetic and plastic variation of Impatiens capensis flower morphology</p>
-<p align="justify" style="font-size:85%; margin:0 0 0 0">Burkiewicz J., Carvalho J., Caporgno S., Devaux C., <b style="color:#1093BD">Lafond J.</b>, Normandin E. and Joly S.</p>
-<p style="font-size:85%; margin:0 0 0 0"><i>Evolution Letters</i>, Volume 10, Issue 3, Pages 239–252.</p>
-<p style="font-size:85%; margin:0 0 0 0"> 
-  <a target="_blank" href="https://academic.oup.com/evlett/article/10/3/239/8540387">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article </a>
-  <a target="_blank" style="margin-left: 1em;" href="https://www.biorxiv.org/content/10.1101/2025.06.10.658901v2">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Preprint
-</a></p>
+<!-- Pubs 2026 -->
+<div class="pub-year">2026</div>
 
 
-<h5>2024 </h5>
+  <div class="publication">
 
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Latitudinal gradients in predation persist in urban environments</p>
-<p align="justify" style="font-size:85%; margin:0 0 0 0">Hargreaves A. L., Ensing J., Rahn, O., Oliveira F., Burkiewicz J., <b style="color:#1093BD"> Lafond J.</b>, Haeussler S., Best B., Lazda, K., Slinn H. L., Martin E., Carlson, M. L., Sformo T., Dawson-Glass E., Chuiffo M., Vargas-Rodriguez Y. L., García Jiménez C. I., Gomes I., Klemet-N’Guessan S., Paolucci L., Joly S., Mehltreter K., Muñoz J., Buono C., Brodie J. F., Rodriguez-Campbell A., Veen T., Freeman B., Lee-Yaw J., Muñoz J. C., Paquette A., Butler J. and Suaréz E.</p>
-<p style="font-size:85%; margin:0 0 0 0"><i>Nature Ecology and Evolution</i>, Volume 8, Pages 1897–1906. </p>
-<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.nature.com/articles/s41559-024-02504-7">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
-</a></p>
+      <div class="pub-title">
+          Reproductive modes and the evolution of mutation rate
+      </div>
 
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Asexuality shapes traits in a hybrid fish</p>
-<p style="font-size:85%; margin:0 0 0 0"><b style="color:#1093BD">Lafond J.</b>, Leung C. and Angers B. </p>
-<p style="font-size:85%; margin:0 0 0 0"><i>Nature Communications</i>, Volume 2024, Issue 15, Page 7642. </p>
-<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.nature.com/articles/s41467-024-52041-x.epdf?sharing_token=8yDjly6oZNO67dIqktgNUdRgN0jAjWel9jnR3ZoTv0N-BqkxlAlM3RDrjTXo6iM8VV_eqw3pTiMC4mh6lkvyTKNQbQzzePuJoJLSn53CrtSlS-U93AQ9N0xEP-zPTOzdpq98jZhR6OykU04IEXQL74end5dkJRUbAjVDkQfZwSo%3D">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
-</a></p>
+      <div class="pub-authors">
+          <span class="my-name">Lafond J.</span>,
+          Saravanakumar S., Neiman M., Zufall R.A., Wright S.I. and Azevedo R.B.R.
+      </div>
 
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Maternal ploidy shapes reproductive pathways in the triploid hybrid <i>Chrosomus eos × eos-neogaeus</i></p>
-<p style="font-size:85%; margin:0 0 0 0"><b style="color:#1093BD">Lafond J.</b> and Angers B. </p>
-<p style="font-size:85%; margin:0 0 0 0"><i>Molecular Ecology</i>, Volume 33, Issue 5, Page e17264. </p>
-<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.17264">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
-</a></p>
+      <div class="pub-journal">
+          Preprint
+      </div>
 
-<h5>2023 </h5>
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">First record of the invasive slug <i>Arion vulgaris Moquin-Tandon</i>, 1885 (Gastropoda, Stylommatophora, Arionidae) in Quebec (Canada)</p>
-<p style="font-size:85%; margin:0 0 0 0">L’heureux E., <b style="color:#1093BD">Lafond J.</b> and Angers B. </p>
-<p style="font-size:85%; margin:0 0 0 0"><i>Bioinvasions Records</i>, Volume 12, Issue 1, Pages 136–150.</p>
-<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.reabic.net/journals/bir/2023/1/BIR_2023_L%E2%80%99Heureux_etal.pdf">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
-</a></p>
+      <div class="pub-link">
+          <a href="https://doi.org/10.32942/X2NT2J" >
+              Preprint
+          </a>
+      </div>
 
-<h5>2020 </h5>
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Inferring responses to climate warming from latitudinal pattern of clonal hybridization</p>
-<p style="font-size:85%; margin:0 0 0 0">Monette K., Leung C., <b style="color:#1093BD">Lafond J.</b>, Wittische J. and Angers B. </p>
-<p style="font-size:85%; margin:0 0 0 0"><i>Ecology and Evolution</i>, Volume 10, Issue 1, Pages 307-319.</p>
-<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5896">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
-</a></p>
+  </div>
 
-<h5>2019 </h5>
-<p style="font-size:85%; font-weight: bold; margin:1em 0 0 0">Unexpected Oogenic Pathways for the Triploid Fish <i>Chrosomus eos-neogaeus</i>
-<p style="font-size:85%; margin:0 0 0 0"><b style="color:#1093BD">Lafond J.</b>, Hénault P., Leung C. and Angers B.</p>
-<p style="font-size:85%; margin:0 0 0 0"><i>Journal of Heredity</i>, Volume 110, Issue 3, Pages 370–377. </p>
-<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://academic.oup.com/jhered/article/110/3/370/5268115">
-  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Article
-</a></p>
+  <div class="publication">
+
+      <div class="pub-title">
+          Structural and Functional Divergence of the <em>Poecilia picta</em> Sex Chromosomes
+      </div>
+
+      <div class="pub-authors">
+          <span class="my-name">Lafond J.</span>,
+          Lin Y., Fong L.J.M. and Mank J.
+      </div>
+
+      <div class="pub-journal">
+          <em>Molecular Ecology</em>, Volume 35, Issue 9, e70353
+      </div>
+
+      <div class="pub-link">
+          <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.70353" >
+              Article
+          </a>
+      </div>
+
+  </div>
+
+  <div class="publication">
+
+      <div class="pub-title">
+          Urbanization correlates with genetic and plastic variation of
+          <em>Impatiens capensis</em> flower morphology
+      </div>
+
+      <div class="pub-authors">
+          Burkiewicz J., Carvalho J., Caporgno S., Devaux C.,
+          <span class="my-name">Lafond J.</span>,
+          Normandin E. and Joly S.
+      </div>
+
+      <div class="pub-journal">
+          <em>Evolution Letters</em>, Volume 10, Issue 3, Pages 239-252
+      </div>
+
+      <div class="pub-link">
+          <a href="https://academic.oup.com/evlett/article/10/3/239/8540387" >
+              Article
+          </a>
+
+          <a href="https://www.biorxiv.org/content/10.1101/2025.06.10.658901v2" >
+              Preprint
+          </a>
+      </div>
+
+</div>
+
+
+<!-- Pubs 2024 -->
+<div class="pub-year">2024</div>
+
+<div class="publication">
+    <div class="pub-title">
+        Latitudinal gradients in predation persist in urban environments
+    </div>
+
+    <div class="pub-authors">
+        Hargreaves A. L., Ensing J., Rahn O., Oliveira F., Burkiewicz J.,
+        <span class="my-name">Lafond J.</span>,
+        Haeussler S., Best B., Lazda K., Slinn H. L., Martin E., Carlson M. L.,
+        Sformo T., Dawson-Glass E., Chuiffo M., Vargas-Rodriguez Y. L.,
+        García Jiménez C. I., Gomes I., Klemet-N'Guessan S., Paolucci L.,
+        Joly S., Mehltreter K., Muñoz J., Buono C., Brodie J. F.,
+        Rodriguez-Campbell A., Veen T., Freeman B., Lee-Yaw J.,
+        Muñoz J. C., Paquette A., Butler J. and Suaréz E.
+    </div>
+
+    <div class="pub-journal">
+        <em>Nature Ecology and Evolution</em>, Volume 8, Pages 1897-1906
+    </div>
+
+    <div class="pub-link">
+        <a href="https://www.nature.com/articles/s41559-024-02504-7" >Article</a>
+    </div>
+</div>
+
+<div class="publication">
+    <div class="pub-title">
+        Asexuality shapes traits in a hybrid fish
+    </div>
+
+    <div class="pub-authors">
+        <span class="my-name">Lafond J.</span>,
+        Leung C. and Angers B.
+    </div>
+
+    <div class="pub-journal">
+        <em>Nature Communications</em>, Volume 15, Article 7642
+    </div>
+
+    <div class="pub-link">
+        <a href="https://www.nature.com/articles/s41467-024-52041-x" >Article</a>
+    </div>
+</div>
+
+<div class="publication">
+    <div class="pub-title">
+        Maternal ploidy shapes reproductive pathways in the triploid hybrid
+        <em>Chrosomus eos × eos-neogaeus</em>
+    </div>
+
+    <div class="pub-authors">
+        <span class="my-name">Lafond J.</span>
+        and Angers B.
+    </div>
+
+    <div class="pub-journal">
+        <em>Molecular Ecology</em>, Volume 33, Issue 5, e17264
+    </div>
+
+    <div class="pub-link">
+        <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.17264" >Article</a>
+    </div>
+</div>
+
+
+<!-- Pubs 2023 -->
+<div class="pub-year">2023</div>
+
+<div class="publication">
+
+    <div class="pub-title">
+        First record of the invasive slug
+        <em>Arion vulgaris</em> Moquin-Tandon, 1885
+        (Gastropoda, Stylommatophora, Arionidae) in Quebec (Canada)
+    </div>
+
+    <div class="pub-authors">
+        L'heureux E.,
+        <span class="my-name">Lafond J.</span>
+        and Angers B.
+    </div>
+
+    <div class="pub-journal">
+        <em>Bioinvasions Records</em>, Volume 12, Issue 1, Pages 136-150
+    </div>
+
+    <div class="pub-link">
+        <a href="https://www.reabic.net/journals/bir/2023/1/BIR_2023_LHeureux_etal.pdf" >Article</a>
+    </div>
+
+</div>
+
+
+<!-- Pubs 2020 -->
+<div class="pub-year">2020</div>
+
+<div class="publication">
+
+    <div class="pub-title">
+        Inferring responses to climate warming from latitudinal pattern of clonal hybridization
+    </div>
+
+    <div class="pub-authors">
+        Monette K.,
+        Leung C.,
+        <span class="my-name">Lafond J.</span>,
+        Wittische J.
+        and Angers B.
+    </div>
+
+    <div class="pub-journal">
+        <em>Ecology and Evolution</em>, Volume 10, Issue 1, Pages 307-319
+    </div>
+
+    <div class="pub-link">
+        <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5896" >Article</a>
+    </div>
+
+</div>
+
+
+<!-- Pubs 2019 -->
+<div class="pub-year">2019</div>
+
+<div class="publication">
+
+    <div class="pub-title">
+        Unexpected Oogenic Pathways for the Triploid Fish
+        <em>Chrosomus eos-neogaeus</em>
+    </div>
+
+    <div class="pub-authors">
+        <span class="my-name">Lafond J.</span>,
+        Hénault P.,
+        Leung C.
+        and Angers B.
+    </div>
+
+    <div class="pub-journal">
+        <em>Journal of Heredity</em>, Volume 110, Issue 3, Pages 370-377
+    </div>
+
+    <div class="pub-link">
+        <a href="https://academic.oup.com/jhered/article/110/3/370/5268115" >Article</a>
+    </div>
+
+</div>
 
 
 <!-- Back to top button -->
