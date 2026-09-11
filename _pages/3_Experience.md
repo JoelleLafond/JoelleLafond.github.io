@@ -14,7 +14,7 @@ excerpt: '<p class="excerpt-post"> Curriculum vitae </p>'
 
 <h2> Check out my CV for an up-to-date list of my academic experiences! </h2>
 
-<div style="text-align: justify"><span style="color:#3778C6;" align="justify"> Last Updated: May 2nd, 2025 </span> </div>
+<div style="text-align: justify"><span style="color:#3778C6;" align="justify"> Last Updated: Sept. 11th, 2026 </span> </div>
 
 <embed src="../assets/files/JLafond_CV.pdf" width="800px" height="800px" />
 

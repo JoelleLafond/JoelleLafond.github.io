@@ -8,27 +8,36 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/banner13.jpg
-excerpt: '<p class="excerpt-post"> Sexual/Asexual Reproduction & Sex Chromosomes Evolution </p>' 
+excerpt: '<p class="excerpt-post"> Reproductive modes, hybridization & sex chromosomes evolution </p>' 
 ---
+
+<h1>Research Direction</h1>
+
+Reproduction is a fundamental process shaping the ecology and evolution of eukaryotic organisms. While sexual reproduction dominates most vertebrate lineages, alternative reproductive modes such as asexuality, hybridogenesis, self-fertilization, and other atypical systems are widespread across the tree of life. These reproductive strategies can profoundly influence genetic diversity, adaptation, population persistence, and species diversification.
+
+My research focuses on understanding how variation in reproductive systems shapes evolutionary trajectories. In particular, I am interested in the interactions among hybridization, genome evolution, and reproductive mode transitions. Hybridization can disrupt established reproductive processes, but it can also generate novel genetic variation, facilitate adaptation, and contribute to the origin of new lineages. At the same time, atypical reproductive systems provide unique opportunities to investigate fundamental questions about development, inheritance, and evolution.
+
+
 
 
 <h1> Postdoctoral Research </h1>
 
-<p align="justify"> I started my first postdoctoal experience in the lab of <a href="https://www.zoology.ubc.ca/mank-lab/">Dr. Judith Mank</a> (University of British Columbia) as of June 2024. My aim in this lab is to investigate sex chromosomes evolution, namely in the light of recombination loss. Stay tuned for more exciting research! 
-</p>
+My postdoctoral research explores how reproductive systems shape genome evolution across diverse taxa. By combining comparative genomics, evolutionary biology, and population genetics, I investigate how shifts in reproductive mode and sex determination influence fundamental evolutionary processes.
+
+Since January 2026, I have been an FRQ Postdoctoral Fellow in the laboratory of Stephen Wright in the Department of Ecology & Evolutionary Biology at the University of Toronto. My current research have a focus on how mutation rates evolve in response to different reproductive modes, with the goal of understanding how changes in reproduction influence genome stability, adaptation, and long-term evolutionary dynamics. I recently published a <a href="https://ecoevorxiv.org/repository/view/14788/">preprint</a> on that matter. 
+
+Previously, from January 2024 to December 2025, I was an FRQ Postdoctoral Fellow (and Postdoctoral Researcher until May 2025) in the laboratory of Judith E. Mank at the University of British Columbia. There, I investigated the evolution of sex chromosomes in Poecilia species, focusing on how dosage compensation and recombination suppression contribute to sex chromosome divergence and genome evolution. My paper was recently published in <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.70353">Molecular Ecology</a>.
+
+
 
 
 <h1> PhD Research </h1>
 
-<p align="justify"> Jumping to the PhD right after completing my BSc, I landed in a lab that opened the world of atypical reproductions to me. I was instantly fascinated by the unexpected and unconventional ways that life has to transmit itself to the next generation.
-</p>
+During my PhD, I studied the <i>Chrosomus eos-neogaeus</i> hybrid complex, a remarkable system combining hybridization, polyploidy, and both sexual and asexual reproduction. This work provided a unique opportunity to investigate how unusual reproductive systems originate and persist, and how they influence organismal biology.
 
-<p align="justify">
-The <i>Chrosomus eos-neogaeus</i> hybrid complex is a unique and fascinating study group due to its exceptional combination of sexual and asexual reproduction, polyploidy, and of course hybridization. For my PhD, my research objectives were multifaceted, as I aimed to identify the various reproductive pathways observed in these fish, characterize the origin of the reproductive dichotomy in the triploids, and the impacts of such phenotypic changes on the fish themselves.
+My research revealed previously unknown reproductive pathways in triploid hybrids, uncovered evidence that maternal effects and epigenetic mechanisms may influence reproductive development, and demonstrated that reproductive mode is associated with broader phenotypic differences beyond the reproductive system itself. Together, these findings highlighted the complexity of reproductive transitions and their developmental and evolutionary consequences.
 
-By studying this complex, I sought to uncover the functioning of reproduction in aberrant cases, shedding new light on the diverse and complex processes that drive life. Through my research, I hope to contribute to a better understanding of the fascinating and intricate world of biology. 
-</p>
-
+More broadly, my PhD contributed to understanding how hybridization and atypical reproductive modes interact to generate biological diversity, providing new insights into the evolutionary processes that shape vertebrate populations.
 
 <img-div>
 <img style="Padding: 10px 10px 10px 10px;" width="800px" src="../assets/images/complex_window_drawing.jpg" class="center" />
@@ -36,37 +45,6 @@ By studying this complex, I sought to uncover the functioning of reproduction in
 </img-div>
 
 
-## Atypical reproductive pathways
-
-<p align="justify">
-My <a href="https://academic.oup.com/jhered/article/110/3/370/5268115">first research project</a> focused on how <i>Chrosomus eos x eos-neogaeus</i> triploid hybrids were able to perpetuate themselves. We had, at that point, many reasons to think their reproductive success was simply low. However, we actually found that these females had a good reproductive succes and, mor eimportantly, that half of the triploid females crossed for the experiment harboured offspring through meiotic hybridogenesis, while the other half produced offspring through another, unknown type of gametogenesis, named <i>ameiotic hybridogenesis</i>. As well, the different types of hybridogenesis occurred in an exclusive manner, with females being able to do only one and never a mix of the two! This research shedded new light on the population dynamics of this complex and revealed a more complex picture than previously thought (Figure A). 
-</p>
-
-<img-div>
-<img style="Padding: 10px 10px 10px 10px;" width="800px" src="../assets/images/Paper1.png" class="center" />
-<figcaption style="text-align: center">Figure A. <i>Chrosomus eos x eos-neogaeus</i> reproductive pathways, and main results of my first chapter.</figcaption>
-</img-div>
-
-
-## Maternal effects and gametogenesis
-<p align="justify">
-In that <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17264">second research project</a>, we worked on uncovering the mechanism which produced the reproductive dichotomy in triploid hybrids. We found out that epigenetic patterns in females of a certain reproduction group was concordant with the epigenetic patterns of young larvae, raised in common garden conditions, according to their maternal origin. this led us to suggest that the ploidy of the hybrid mothers would impact the larvae's gonadal development, leading to either reproductive pathway (Figure B). This is the first supposed maternal effect influencing reproductive processes! 
-</p>
-
-<img-div>
-<img style="Padding: 10px 10px 10px 10px;" width="800px" src="../assets/images/ME.jpg" class="center" />
-<figcaption style="text-align: center">Figure B. The origin of the <i>Chrosomus eos x eos-neogaeus</i> reproductive pathways, and main results of my second chapter.</figcaption>
-</img-div>
-
-## The shape of asexuality
-<p align="justify">
-In my <a href="https://www.nature.com/articles/s41467-024-52041-x">third and last PhD chapter</a>, we investigated whether the two groups of triploid females, one that reproduce sexually and the other asexually, would differ in their non-sexual traits. These females are an awesome model, since we do not expect them to have differences in their genetics, sexual selection or any other confounding effects – that we could think of, at least! Analyzing the shape of their head resulted in a highly marked difference, that was also found to be not only between triploids, but between the sexual and asexual members of the <i>C. eos-neogaeus complex</i> (Figure C). This observation suggests that the differentiation of the gonads can have a broad developmental impact in organisms. 
-</p>
-
-<img-div>
-<img style="Padding: 10px 10px 10px 10px;" width="800px" src="../assets/images/Paper3.png" class="center" />
-<figcaption style="text-align: center">Figure C. The head shape divergence of the <i>Chrosomus eos x eos-neogaeus</i> complex, and main results of my third chapter. A-11 and B-01 are hybrid lineages. Note how results persist in both natural conditions and in a common garden experiment. </figcaption> 
-</img-div>
 
 
 <!-- Back to top button -->
